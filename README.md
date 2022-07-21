@@ -1,1 +1,3 @@
-# library
+# Library
+
+Library app using Javascript.
