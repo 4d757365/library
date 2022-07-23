@@ -144,3 +144,8 @@ th:last-child, td:last-child {
     text-align: center;
     height: 5%;
 }
+
+label:after {
+    content: ' * ';
+    color: red;
+}
